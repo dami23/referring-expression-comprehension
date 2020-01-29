@@ -12,8 +12,6 @@ Please go to this [site](https://github.com/lichengunc/refer) and follow the ins
 
 **Feature Extraction**
 
-Please follow the instructions [here](https://github.com/lichengunc/MAttNet) to extracte deep feature for visual images.
-
 The pretraine model [BERT](https://github.com/codertimo/BERT-pytorch) is required to generate representations for referring expressions.
 
 **Train**
